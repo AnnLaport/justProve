@@ -1,3 +1,1 @@
 This is a text coming from the other branch "Susanne"
-
-This is a text and it´s going to be reverted 
